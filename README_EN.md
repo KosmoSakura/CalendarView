@@ -59,10 +59,13 @@ compile 'com.haibin:calendarview:3.4.8'
 
 ### Effect preview
 ### Function List
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_en_func.png" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_en_func.png" height="400"/>
 <img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_en_list.png" height="400"/>
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_expand.png" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_shrink.png" height="400"/>
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_expand.png" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_shrink.png" height="400"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_expand.png" height="400"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_shrink.png" height="400"/>
+###
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_expand.png" height="400"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_shrink.png" height="400"/>
 ###
 <img src="https://github.com/KosmoSakura/CalendarView/raw/master/image/index_expand.png" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/raw/master/image/color_expand.png" height="400"/>
 <img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/progress_expand.png" height="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/progress_shrink.png" height="400"/>
