@@ -5,7 +5,13 @@ Android上一个优雅、高度自定义、性能高效的日历控件，完美�
  
 
 ---
+处理了一个bug：
+> 当日历在非全屏状态下展示月份视图的时候，视图的高度会随着滑动一直增高
+> 如下：
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_zh_func.png" height="300"/>&nbsp;&nbsp;对比&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_zh_list.png" height="300"/>
 
+---
 
 
 [English Version**](https://github.com/KosmoSakura/CalendarView/blob/master/README_EN.md)

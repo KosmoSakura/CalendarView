@@ -36,6 +36,9 @@ public final class YearViewSelectLayout extends ViewPager {
     private CalendarViewDelegate mDelegate;
     private YearRecyclerView.OnMonthSelectedListener mListener;
     private YearRecyclerView view;
+    private int cache;
+    private int screenH = getScreenH();
+
 
     public YearViewSelectLayout(Context context) {
         this(context, null);
@@ -45,6 +48,12 @@ public final class YearViewSelectLayout extends ViewPager {
         super(context, attrs);
     }
 
+    private int getScreenH() {
+        WindowManager manager = (WindowManager) getContext().getSystemService(Context.WINDOW_SERVICE);
+        assert manager != null;
+        Display display = manager.getDefaultDisplay();
+        return display.getHeight();
+    }
 
     void setup(CalendarViewDelegate delegate) {
         this.mDelegate = delegate;
@@ -137,29 +146,33 @@ public final class YearViewSelectLayout extends ViewPager {
         this.mListener = listener;
     }
 
+
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-        heightMeasureSpec = MeasureSpec.makeMeasureSpec(getHeight(getContext(), this), MeasureSpec.EXACTLY);
+//        klog(widthMeasureSpec + ":-:" + heightMeasureSpec);
+        heightMeasureSpec = MeasureSpec.makeMeasureSpec(getHeight(this), MeasureSpec.EXACTLY);
+//        klog(widthMeasureSpec + ":-:" + heightMeasureSpec);
         super.onMeasure(widthMeasureSpec, heightMeasureSpec);
     }
+
 
     /**
      * 计算相对高度
      *
-     * @param context context
-     * @param view    view
+     * @param view view
      * @return 月视图选择器最适合的高度
      */
-    private static int getHeight(Context context, View view) {
-        WindowManager manager = (WindowManager) context.getSystemService(Context.WINDOW_SERVICE);
-        assert manager != null;
-        Display display = manager.getDefaultDisplay();
-        int h = display.getHeight();
+    private int getHeight(View view) {
         int[] location = new int[2];
         view.getLocationInWindow(location);
         view.getLocationOnScreen(location);
-        return h - location[1];
+        if (cache < location[1]) {
+            cache = location[1];
+        }
+//        int hei = h - location[1];
+        return screenH - cache / 2;
     }
+
 
     @SuppressLint("ClickableViewAccessibility")
     @Override

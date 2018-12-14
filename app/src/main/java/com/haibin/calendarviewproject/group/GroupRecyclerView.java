@@ -51,17 +51,17 @@ public class GroupRecyclerView extends RecyclerView {
             super.setAdapter(adapter);
         } else {
             throw new IllegalStateException("Adapter must instanceof " +
-                    "GroupRecyclerAdapter or extends GroupRecyclerAdapter");
+                "GroupRecyclerAdapter or extends GroupRecyclerAdapter");
         }
     }
 
     @Override
     public void addItemDecoration(ItemDecoration decor) {
+        removeItemDecoration(decor);
         if (decor instanceof GroupItemDecoration)
             super.addItemDecoration(decor);
         else
-            throw new IllegalStateException("ItemDecoration must instanceof " +
-                    "GroupItemDecoration or extends GroupItemDecoration");
+            throw new IllegalStateException("ItemDecoration must instanceof GroupItemDecoration or extends GroupItemDecoration");
         mItemDecoration = (GroupItemDecoration) decor;
         mItemDecoration.setTextSize(mTextSize);
         mItemDecoration.setBackground(mGroutBackground);
