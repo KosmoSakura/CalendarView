@@ -28,6 +28,7 @@ public final class YearRecyclerView extends RecyclerView {
     private CalendarViewDelegate mDelegate;
     private YearViewAdapter mAdapter;
     private OnMonthSelectedListener mListener;
+    private GridLayoutManager layoutManager;
 
     public YearRecyclerView(Context context) {
         this(context, null);
@@ -36,7 +37,10 @@ public final class YearRecyclerView extends RecyclerView {
     public YearRecyclerView(Context context, @Nullable AttributeSet attrs) {
         super(context, attrs);
         mAdapter = new YearViewAdapter(context);
-        setLayoutManager(new GridLayoutManager(context, 3));
+        if (layoutManager == null) {
+            layoutManager = new GridLayoutManager(context, 3);
+        }
+        setLayoutManager(layoutManager);
         setAdapter(mAdapter);
         mAdapter.setOnItemClickListener(new BaseRecyclerAdapter.OnItemClickListener() {
             @Override
@@ -47,8 +51,8 @@ public final class YearRecyclerView extends RecyclerView {
                         return;
                     }
                     if (!CalendarUtil.isMonthInRange(month.getYear(), month.getMonth(),
-                            mDelegate.getMinYear(), mDelegate.getMinYearMonth(),
-                            mDelegate.getMaxYear(), mDelegate.getMaxYearMonth())) {
+                        mDelegate.getMinYear(), mDelegate.getMinYearMonth(),
+                        mDelegate.getMaxYear(), mDelegate.getMaxYearMonth())) {
                         return;
                     }
                     mListener.onMonthSelected(month.getYear(), month.getMonth());
