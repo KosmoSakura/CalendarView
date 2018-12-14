@@ -59,19 +59,19 @@ compile 'com.haibin:calendarview:3.4.8'
 
 ### Effect preview
 ### Function List
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/main_en_func.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/main_en_list.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_en_func.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_en_list.png" height="650"/>
 ###
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/custom_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/custom_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_shrink.png" height="650"/>
 ###
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/meizu_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/meizu_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_shrink.png" height="650"/>
 ###
-<img src="https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/index_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/color_expand.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/raw/master/image/index_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/raw/master/image/color_expand.png" height="650"/>
 ###
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/progress_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/progress_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/progress_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/progress_shrink.png" height="650"/>
 ###
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/solar_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/solar_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/solar_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/solar_shrink.png" height="650"/>
 ###
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/year_view.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/range.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/year_view.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/range.png" height="650"/>
 
 
 

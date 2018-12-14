@@ -53,17 +53,17 @@ compile 'com.haibin:calendarview:3.4.8'
 
 ### 年视图和范围选择风格
 
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/year_view.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/range.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/year_view.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/range.png" height="450"/>
 ### 中国式变态需求风格
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_expand.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/custom_shrink.png" height="450"/>
 ### 收缩展开的魅族风格效果
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_expand.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/meizu_shrink.png" height="450"/>
 ### 下标和多彩风格
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/index_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/color_expand.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/index_expand.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/color_expand.png" height="450"/>
 ### 进度条风格
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/progress_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/progress_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/progress_expand.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/progress_shrink.png" height="450"/>
 ### 星系图风格
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/solar_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/solar_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/solar_expand.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/solar_shrink.png" height="450"/>
 
 ### 特别的，请注意不要复制这三个路径，自行替换您自己的自定义路径
 
