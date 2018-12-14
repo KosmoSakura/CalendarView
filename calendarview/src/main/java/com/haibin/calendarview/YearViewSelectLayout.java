@@ -35,6 +35,7 @@ public final class YearViewSelectLayout extends ViewPager {
     private boolean isUpdateYearView;
     private CalendarViewDelegate mDelegate;
     private YearRecyclerView.OnMonthSelectedListener mListener;
+    private YearRecyclerView view;
 
     public YearViewSelectLayout(Context context) {
         this(context, null);
@@ -66,7 +67,7 @@ public final class YearViewSelectLayout extends ViewPager {
 
             @Override
             public Object instantiateItem(ViewGroup container, int position) {
-                YearRecyclerView view = new YearRecyclerView(getContext());
+                view = new YearRecyclerView(getContext());
                 container.addView(view);
                 view.setup(mDelegate);
                 view.setOnMonthSelectedListener(mListener);

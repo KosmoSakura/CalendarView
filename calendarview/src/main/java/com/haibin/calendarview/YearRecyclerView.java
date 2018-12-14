@@ -88,6 +88,7 @@ public final class YearRecyclerView extends RecyclerView {
             month.setYear(year);
             mAdapter.addItem(month);
         }
+        mAdapter.notifyDataSetChanged();
     }
 
     /**
