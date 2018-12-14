@@ -10,8 +10,8 @@ Android上一个优雅、高度自定义、性能高效的日历控件，完美�
 >
 > 如下：
 
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_zh_func.png" height="300"/>&nbsp;&nbsp;对比&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_zh_list.png" height="300"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/0001.gif" height="300"/>&nbsp;&nbsp;对比&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/0002.gif" height="300"/>
 
 ---
 
