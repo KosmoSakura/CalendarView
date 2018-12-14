@@ -8,9 +8,9 @@ Android上一个优雅、高度自定义、性能高效的日历控件，完美�
 
 
 
-[English Version**](https://github.com/huanghaibin-dev/CalendarView/blob/master/README_EN.md)
+[English Version**](https://github.com/KosmoSakura/CalendarView/blob/master/README_EN.md)
 
-[**详细介绍**](https://github.com/huanghaibin-dev/CalendarView/blob/master/QUESTION.md)
+[**详细介绍**](https://github.com/KosmoSakura/CalendarView/blob/master/QUESTION.md)
 
 ### Gradle
 ```
@@ -49,21 +49,21 @@ compile 'com.haibin:calendarview:3.4.8'
 ### 效果预览
 ### 功能性展示
 
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/main_zh_func.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/main_zh_list.png" height="450"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/main_zh_func.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/main_zh_list.png" height="450"/>
 
 ### 年视图和范围选择风格
 
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/year_view.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/range.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/year_view.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/range.png" height="650"/>
 ### 中国式变态需求风格
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/custom_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/custom_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/custom_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/custom_shrink.png" height="650"/>
 ### 收缩展开的魅族风格效果
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/meizu_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/meizu_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/meizu_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/meizu_shrink.png" height="650"/>
 ### 下标和多彩风格
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/index_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/color_expand.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/index_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/color_expand.png" height="650"/>
 ### 进度条风格
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/progress_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/progress_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/progress_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/progress_shrink.png" height="650"/>
 ### 星系图风格
-<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/solar_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/solar_shrink.png" height="650"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/solar_expand.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KosmoSakura/CalendarView/blob/master/app/src/main/assets/solar_shrink.png" height="650"/>
 
 ### 特别的，请注意不要复制这三个路径，自行替换您自己的自定义路径
 
