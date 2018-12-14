@@ -458,6 +458,7 @@ public class CalendarView extends FrameLayout {
      * @param smoothScroll smoothScroll
      */
     public void scrollToNext(boolean smoothScroll) {
+        // TODO: 应该就是这里了
         if (isYearSelectLayoutVisible()) {
             mSelectLayout.setCurrentItem(mSelectLayout.getCurrentItem() + 1, smoothScroll);
         } else if (mWeekPager.getVisibility() == VISIBLE) {
