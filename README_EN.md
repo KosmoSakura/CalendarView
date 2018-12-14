@@ -80,7 +80,7 @@ compile 'com.haibin:calendarview:3.4.8'
 ###
 ---
 ###
-<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/year_view.png" height="300"/>
+<img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/year_view.png" height="300"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/KosmoSakura/CalendarView/blob/master/image/range.png" height="300"/>
 
 
